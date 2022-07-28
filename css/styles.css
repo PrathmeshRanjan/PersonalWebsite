@@ -1,0 +1,31 @@
+body {
+  background-color: #FFFDD0;
+}
+
+h1 {
+  color: #008080;
+}
+
+h1:hover{
+  color: #800000;
+}
+
+h3 {
+  color: #800000;
+}
+
+h3:hover{
+  color: gold;
+}
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+.flag{
+  background-color: white;
+}
+img:hover{
+  background-color: gold;
+}
